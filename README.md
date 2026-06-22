@@ -1,1 +1,1 @@
-# wear-the-sound
+# Wear The Sound
